@@ -1,0 +1,43 @@
+
+html
+{
+    background-color: rgb(0, 0, 0);
+}
+
+header 
+{
+    display: block;
+}
+
+#pagetop {
+    color : rgba(255, 255, 255, 0.692);
+    font-family: Monospace;
+}
+
+#info p{
+    color : rgba(255, 255, 255, 0.692);
+    font-family: Monospace;
+}
+
+#media {
+    color: white;
+    font-size: 16px;
+}
+#units {
+    text-align: left; 
+    float: left;
+    color: white;
+    font-family: Monospace;
+}
+
+
+#rev{
+    color: white;
+    text-align: left;
+    float: right;
+    font-family: Monospace;
+}
+
+body
+{
+}
